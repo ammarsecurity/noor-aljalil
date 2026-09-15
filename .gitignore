@@ -1,0 +1,11 @@
+# Archives and unused originals
+/noor.zip
+/*.webp
+/hero.jpg
+/WhatsApp Image *.jpeg
+companyphoto/WhatsApp Image *.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
